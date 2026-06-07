@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 
 # filename here
-IMAGE_PATH = ""
+IMAGE_PATH = "ankle_boot_dark.png"
 
 
 def preprocess_image(image_path):
