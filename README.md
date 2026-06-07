@@ -9,6 +9,7 @@ This is was my first computer vision project as well as my first ML project. It 
 - The training loop can be found in [train_pipeline.ipynb](train_pipeline.ipynb).
 - The results from evaluation over the testing set are in [evaluation.ipynb](evaluation.ipynb).
 - A demonstration of the use of the model, along with some results, are in [predict.py](predict.py).
+- Some helpful functions are defined in [utils.py](utils.py).
 
 
 ## Personal Learning Objectives
