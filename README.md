@@ -52,7 +52,7 @@ This is was my first computer vision project as well as my first ML project. It 
 In this project, I used a convolutional neural network. The architecture is shown below:
 
 <p align="center">
-  <img src="fashioncnn_architecture.drawio.svg" alt="model architecture" />
+  <img src="fashioncnn_architecture.svg" alt="model architecture" />
 </p>
 
 In addition, here are some specifications about the design and training of the model:
